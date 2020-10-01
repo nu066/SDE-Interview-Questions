@@ -27,7 +27,7 @@
      
 ## Top Contributors ✨
 
-Thanks goes to these wonderful people:
+Thanks goes to these wonderful people who contributed in this:
 
 <table href = "#contributors">
   <tr>
